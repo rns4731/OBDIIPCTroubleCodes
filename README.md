@@ -1,4 +1,4 @@
-ODBIIPCTroubleCodes
+OBDIIPCTroubleCodes
 ===================
 
-JSON of common ODBII P trouble codes for autos.
+JSON of common OBDII P trouble codes for autos.
